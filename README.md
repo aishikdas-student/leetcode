@@ -19,4 +19,13 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aishikdas-student/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/aishikdas-student/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aishikdas-student/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aishikdas-student/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
