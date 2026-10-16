@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aishikdas-student/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/aishikdas-student/leetcode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishikdas-student/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aishikdas-student/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aishikdas-student/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
