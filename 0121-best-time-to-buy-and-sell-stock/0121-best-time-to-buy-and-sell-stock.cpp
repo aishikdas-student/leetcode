@@ -7,9 +7,9 @@ public:
         for(int i=0;i<prices.size();i++){
             if(prices[i]>bestbuy){
                 maxP=max(maxP,prices[i]-bestbuy);
-            }else{
-                bestbuy=prices[i];
             }
+                bestbuy=min(bestbuy,prices[i]);
+            
 
         }
         return maxP;
