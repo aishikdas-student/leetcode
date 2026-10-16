@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/aishikdas-student/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/aishikdas-student/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aishikdas-student/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aishikdas-student/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -54,8 +56,21 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aishikdas-student/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aishikdas-student/leetcode/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
