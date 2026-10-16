@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishikdas-student/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aishikdas-student/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/aishikdas-student/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aishikdas-student/leetcode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/aishikdas-student/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
