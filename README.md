@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/aishikdas-student/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aishikdas-student/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishikdas-student/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aishikdas-student/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
@@ -49,6 +50,7 @@
 | [0011-container-with-most-water](https://github.com/aishikdas-student/leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishikdas-student/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/aishikdas-student/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aishikdas-student/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aishikdas-student/leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
