@@ -32,6 +32,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/aishikdas-student/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aishikdas-student/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/aishikdas-student/leetcode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/aishikdas-student/leetcode/tree/master/0069-sqrtx) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aishikdas-student/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/aishikdas-student/leetcode/tree/master/0567-permutation-in-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aishikdas-student/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
