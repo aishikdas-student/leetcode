@@ -23,7 +23,8 @@ public:
                         end=mid-1;
                     }
                 }
-                return false; //VERY VERY IMPORTANT
+                return false; //VERY VERY IMPORTANT 
+                //RETURNS FALSE IF TARGET PRESENT IN RANGE BUT NOT MATCHES
             }else if(A[midrow][n-1]<target){
                 strow=midrow+1;
             }else{
