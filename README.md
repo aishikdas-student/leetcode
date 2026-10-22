@@ -24,6 +24,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aishikdas-student/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aishikdas-student/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/aishikdas-student/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/aishikdas-student/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 | [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aishikdas-student/leetcode/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/aishikdas-student/leetcode/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/aishikdas-student/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/aishikdas-student/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -43,6 +45,7 @@
 | [0231-power-of-two](https://github.com/aishikdas-student/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aishikdas-student/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aishikdas-student/leetcode/tree/master/0342-power-of-four) |
+| [2965-find-missing-and-repeated-values](https://github.com/aishikdas-student/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -176,6 +179,7 @@
 | [0054-spiral-matrix](https://github.com/aishikdas-student/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aishikdas-student/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aishikdas-student/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/aishikdas-student/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
