@@ -26,6 +26,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aishikdas-student/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aishikdas-student/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2784-check-if-array-is-good](https://github.com/aishikdas-student/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishikdas-student/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/aishikdas-student/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -39,6 +40,7 @@
 | [0389-find-the-difference](https://github.com/aishikdas-student/leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/aishikdas-student/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aishikdas-student/leetcode/tree/master/0567-permutation-in-string) |
+| [2784-check-if-array-is-good](https://github.com/aishikdas-student/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishikdas-student/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/aishikdas-student/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -124,6 +126,7 @@
 | [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aishikdas-student/leetcode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/aishikdas-student/leetcode/tree/master/0389-find-the-difference) |
+| [2784-check-if-array-is-good](https://github.com/aishikdas-student/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/aishikdas-student/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
