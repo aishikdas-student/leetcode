@@ -20,6 +20,7 @@
 | [0136-single-number](https://github.com/aishikdas-student/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aishikdas-student/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/aishikdas-student/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aishikdas-student/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aishikdas-student/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -33,6 +34,7 @@
 | [0013-roman-to-integer](https://github.com/aishikdas-student/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aishikdas-student/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/aishikdas-student/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/aishikdas-student/leetcode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/aishikdas-student/leetcode/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishikdas-student/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -172,6 +174,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/aishikdas-student/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/aishikdas-student/leetcode/tree/master/0567-permutation-in-string) |
 ## Newton's Method
 |  |
