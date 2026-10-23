@@ -1,5 +1,6 @@
 class Solution {
 public:
+//WE HAVE TO PLACE N QUEENS IN N ROWS
     bool isSafe(vector<string>&board,int row,int col){
         int n=board.size();
         //not same row
