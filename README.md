@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/aishikdas-student/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/aishikdas-student/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/aishikdas-student/leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/aishikdas-student/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aishikdas-student/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aishikdas-student/leetcode/tree/master/0053-maximum-subarray) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aishikdas-student/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aishikdas-student/leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/aishikdas-student/leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aishikdas-student/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aishikdas-student/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -199,6 +201,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/aishikdas-student/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/aishikdas-student/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aishikdas-student/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aishikdas-student/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
