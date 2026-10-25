@@ -69,6 +69,7 @@
 | [0020-valid-parentheses](https://github.com/aishikdas-student/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishikdas-student/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/aishikdas-student/leetcode/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/aishikdas-student/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/aishikdas-student/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/aishikdas-student/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/aishikdas-student/leetcode/tree/master/0389-find-the-difference) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/aishikdas-student/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishikdas-student/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/aishikdas-student/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0052-n-queens-ii](https://github.com/aishikdas-student/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/aishikdas-student/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aishikdas-student/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/aishikdas-student/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
