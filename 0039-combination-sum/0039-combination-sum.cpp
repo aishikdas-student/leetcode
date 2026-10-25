@@ -1,28 +1,28 @@
 class Solution {
 public:
-    void helper(vector<int>&candidates,int target,int idx,vector<vector<int>>&ans,vector<int>&combin,set<vector<int>> &s){
+    void helper(vector<int>&candidates,int target,int idx,vector<vector<int>>&ans,vector<int>&combin){
         if(target==0){
-            if(s.find(combin)==s.end()){ //not present in set
-                s.insert(combin);
+            
+                
                 ans.push_back(combin);
                 return ;
      
-            }
+           
             
         }
         if(idx==candidates.size() || target<0){
             return;
         }
         
-        //now we have 3 choices
-        combin.push_back(candidates[idx]);
-        //include this element once
-        helper(candidates,target-candidates[idx],idx,ans,combin,s);
-        //inlcude this element multiple times
+        //now we have 2 choices
+        combin.push_back(candidates[idx]); //include once
+        
+        helper(candidates,target-candidates[idx],idx,ans,combin);//check if again possible
+        
        
         combin.pop_back(); //backtracking
         //exclude
-        helper(candidates,target,idx+1,ans,combin,s);
+        helper(candidates,target,idx+1,ans,combin);
         
 
 
@@ -31,7 +31,7 @@ public:
         vector<vector<int>> ans;
         vector<int> combin={};
         set<vector<int>> s;
-        helper(candidates,target,0,ans,combin,s);
+        helper(candidates,target,0,ans,combin);
         return ans;
     }
 };
