@@ -30,7 +30,7 @@ public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
         vector<int> combin={};
-        set<vector<int>> s;
+        
         helper(candidates,target,0,ans,combin);
         return ans;
     }
