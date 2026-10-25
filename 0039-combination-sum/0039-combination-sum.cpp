@@ -17,9 +17,9 @@ public:
         //now we have 3 choices
         combin.push_back(candidates[idx]);
         //include this element once
-        helper(candidates,target-candidates[idx],idx+1,ans,combin,s);
-        //inlcude this element multiple times
         helper(candidates,target-candidates[idx],idx,ans,combin,s);
+        //inlcude this element multiple times
+       
         combin.pop_back(); //backtracking
         //exclude
         helper(candidates,target,idx+1,ans,combin,s);
