@@ -35,6 +35,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/aishikdas-student/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aishikdas-student/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/aishikdas-student/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/aishikdas-student/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2784-check-if-array-is-good](https://github.com/aishikdas-student/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishikdas-student/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/aishikdas-student/leetcode/tree/master/3731-find-missing-elements) |
@@ -220,6 +221,7 @@
 | [0074-search-a-2d-matrix](https://github.com/aishikdas-student/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aishikdas-student/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/aishikdas-student/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/aishikdas-student/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishikdas-student/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aishikdas-student/leetcode/tree/master/0054-spiral-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/aishikdas-student/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Algorithm X
 |  |
 | ------- |
@@ -253,4 +256,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aishikdas-student/leetcode/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/aishikdas-student/leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/aishikdas-student/leetcode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
