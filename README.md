@@ -31,6 +31,7 @@
 | [0219-contains-duplicate-ii](https://github.com/aishikdas-student/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aishikdas-student/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aishikdas-student/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/aishikdas-student/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aishikdas-student/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aishikdas-student/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -125,6 +126,7 @@
 | [0053-maximum-subarray](https://github.com/aishikdas-student/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aishikdas-student/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/aishikdas-student/leetcode/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 | [0069-sqrtx](https://github.com/aishikdas-student/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/aishikdas-student/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aishikdas-student/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/aishikdas-student/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aishikdas-student/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -264,4 +267,24 @@
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/aishikdas-student/leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aishikdas-student/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aishikdas-student/leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aishikdas-student/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aishikdas-student/leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/aishikdas-student/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
