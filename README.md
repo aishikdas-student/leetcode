@@ -15,6 +15,7 @@
 | [0037-sudoku-solver](https://github.com/aishikdas-student/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aishikdas-student/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/aishikdas-student/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/aishikdas-student/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aishikdas-student/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aishikdas-student/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/aishikdas-student/leetcode/tree/master/0054-spiral-matrix) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/aishikdas-student/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aishikdas-student/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/aishikdas-student/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aishikdas-student/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/aishikdas-student/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aishikdas-student/leetcode/tree/master/0326-power-of-three) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/aishikdas-student/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aishikdas-student/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/aishikdas-student/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aishikdas-student/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aishikdas-student/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aishikdas-student/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
