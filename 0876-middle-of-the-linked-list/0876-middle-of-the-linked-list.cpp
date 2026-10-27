@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* middleNode(ListNode* head) {
+    ListNode* middleNode(ListNode* head) {   //slow fast pointers
         ListNode* slow=head;
         ListNode* fast=head;
         while(fast!=NULL && fast->next!=NULL){
