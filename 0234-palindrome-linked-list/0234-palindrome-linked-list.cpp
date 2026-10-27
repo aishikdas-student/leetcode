@@ -4,9 +4,9 @@ public:
         ListNode* slow=head;
         ListNode* fast=head;
 
-        while(fast!=NULL && fast->next!=NULL){
+        while(fast!=NULL && fast->next!=NULL){    //find mid
             slow=slow->next;
-            fast=fast->next->next;
+            fast=fast->next->next;          //1-2-3-2-1
         }
 
         ListNode* mid=slow;
@@ -14,16 +14,16 @@ public:
         ListNode* next=NULL;
 
         while(slow!=NULL){
-            next=slow->next;
-            slow->next=prev;
+            next=slow->next;        //reverse from mid to end
+            slow->next=prev;        //1-2-3-1-2
             prev=slow;
             slow=next;
         }
 
         ListNode* first=head;
         ListNode* second=prev;
-
-        while(second!=NULL){
+ 
+        while(second!=NULL){           //now compare both halves if equal true else false
             if(first->val!=second->val){
                 return false;
             }
