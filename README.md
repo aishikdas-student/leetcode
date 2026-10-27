@@ -79,6 +79,7 @@
 | [0344-reverse-string](https://github.com/aishikdas-student/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/aishikdas-student/leetcode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/aishikdas-student/leetcode/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/aishikdas-student/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/aishikdas-student/leetcode/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/aishikdas-student/leetcode/tree/master/0917-reverse-only-letters) |
 ## Stack
