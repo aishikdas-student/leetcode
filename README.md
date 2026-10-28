@@ -47,6 +47,7 @@
 | [0013-roman-to-integer](https://github.com/aishikdas-student/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/aishikdas-student/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aishikdas-student/leetcode/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/aishikdas-student/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aishikdas-student/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aishikdas-student/leetcode/tree/master/0217-contains-duplicate) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aishikdas-student/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/aishikdas-student/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aishikdas-student/leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/aishikdas-student/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/aishikdas-student/leetcode/tree/master/0206-reverse-linked-list) |
