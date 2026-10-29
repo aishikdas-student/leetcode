@@ -32,6 +32,7 @@
 | [0238-product-of-array-except-self](https://github.com/aishikdas-student/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aishikdas-student/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/aishikdas-student/leetcode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/aishikdas-student/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aishikdas-student/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aishikdas-student/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -53,6 +54,7 @@
 | [0217-contains-duplicate](https://github.com/aishikdas-student/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aishikdas-student/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/aishikdas-student/leetcode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/aishikdas-student/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aishikdas-student/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aishikdas-student/leetcode/tree/master/0567-permutation-in-string) |
 | [2784-check-if-array-is-good](https://github.com/aishikdas-student/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -90,6 +92,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aishikdas-student/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aishikdas-student/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/aishikdas-student/leetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/aishikdas-student/leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -333,6 +336,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/aishikdas-student/leetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/aishikdas-student/leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
