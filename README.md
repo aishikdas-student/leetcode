@@ -68,6 +68,7 @@
 | [0048-rotate-image](https://github.com/aishikdas-student/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/aishikdas-student/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/aishikdas-student/leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/aishikdas-student/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/aishikdas-student/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aishikdas-student/leetcode/tree/master/0342-power-of-four) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishikdas-student/leetcode/tree/master/2965-find-missing-and-repeated-values) |
