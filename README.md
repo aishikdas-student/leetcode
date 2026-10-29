@@ -90,6 +90,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aishikdas-student/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/aishikdas-student/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/aishikdas-student/leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -325,4 +326,16 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aishikdas-student/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/aishikdas-student/leetcode/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/aishikdas-student/leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/aishikdas-student/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
