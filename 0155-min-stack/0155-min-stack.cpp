@@ -1,23 +1,23 @@
-#include<stack>
+
 class MinStack {
 public:
-    stack<pair<int,int>> s; //val,minval
+    stack<pair<int,int>> s; //val,minval so that we can compare
     MinStack() {
         
     }
     
     void push(int val) {
-        if(s.empty()){
+        if(s.empty()){ //no prev minval
             s.push({val,val});
         }else{
-            int minval=min(s.top().second,val);
+            int minval=min(s.top().second,val);//check which is minimum
             s.push({val,minval});
         }
         
     }
     
     void pop() {
-        s.pop();
+        s.pop();  //doesnot match name because one pop is from stack and one is from MinStack
     }
     
     int top() {
