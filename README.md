@@ -14,6 +14,7 @@
 | [0036-valid-sudoku](https://github.com/aishikdas-student/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/aishikdas-student/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/aishikdas-student/leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/aishikdas-student/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/aishikdas-student/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/aishikdas-student/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/aishikdas-student/leetcode/tree/master/0051-n-queens) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aishikdas-student/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aishikdas-student/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aishikdas-student/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/aishikdas-student/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aishikdas-student/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -112,6 +114,7 @@
 | [0018-4sum](https://github.com/aishikdas-student/leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishikdas-student/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/aishikdas-student/leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/aishikdas-student/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aishikdas-student/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aishikdas-student/leetcode/tree/master/0125-valid-palindrome) |
@@ -149,6 +152,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aishikdas-student/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aishikdas-student/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aishikdas-student/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/aishikdas-student/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -343,6 +347,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aishikdas-student/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aishikdas-student/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aishikdas-student/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aishikdas-student/leetcode/tree/master/0503-next-greater-element-ii) |
