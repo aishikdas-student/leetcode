@@ -34,6 +34,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/aishikdas-student/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/aishikdas-student/leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/aishikdas-student/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aishikdas-student/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aishikdas-student/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aishikdas-student/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -97,6 +98,7 @@
 | [0155-min-stack](https://github.com/aishikdas-student/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/aishikdas-student/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aishikdas-student/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aishikdas-student/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/aishikdas-student/leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -343,6 +345,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aishikdas-student/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/aishikdas-student/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aishikdas-student/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/aishikdas-student/leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
