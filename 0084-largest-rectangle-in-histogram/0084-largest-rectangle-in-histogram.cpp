@@ -36,7 +36,7 @@ public:
     int largestRectangleArea(vector<int>& heights) {
         vector<int> rightboundary=nextsmaller(heights);
         vector<int> leftboundary=prevsmaller(heights);
-        int maxArea=INT_MIN,currArea;
+        int maxArea=0,currArea;
         for(int i=0;i<heights.size();i++){
             int width=rightboundary[i]-leftboundary[i]-1;
             currArea=heights[i]*width;
