@@ -256,6 +256,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/aishikdas-student/leetcode/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishikdas-student/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/aishikdas-student/leetcode/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishikdas-student/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Recursion
 |  |
@@ -297,11 +299,13 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/aishikdas-student/leetcode/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aishikdas-student/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/aishikdas-student/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aishikdas-student/leetcode/tree/master/0100-same-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/aishikdas-student/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Indexed Tree
 |  |
