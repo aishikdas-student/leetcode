@@ -1,0 +1,24 @@
+class Solution {
+public:
+    vector<string> fizzBuzz(int n) {
+        vector<string> ans;
+        for(int i=1;i<=n;i++){
+            string s;
+            if(i%3==0){
+                if(i%5==0){  //both 3 and 5
+                    s+="FizzBuzz";
+                }else{  //only 3
+                    s+="Fizz";
+                }
+                
+            }else if(i%5==0){
+                s+="Buzz";
+            }else{
+                s+=to_string(i);
+            }
+            ans.push_back(s);
+
+        }
+        return ans;
+    }
+};
