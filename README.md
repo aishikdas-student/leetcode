@@ -75,6 +75,7 @@
 | [0263-ugly-number](https://github.com/aishikdas-student/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/aishikdas-student/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aishikdas-student/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/aishikdas-student/leetcode/tree/master/0412-fizz-buzz) |
 | [2965-find-missing-and-repeated-values](https://github.com/aishikdas-student/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -88,6 +89,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aishikdas-student/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/aishikdas-student/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/aishikdas-student/leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/aishikdas-student/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/aishikdas-student/leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/aishikdas-student/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/aishikdas-student/leetcode/tree/master/0567-permutation-in-string) |
@@ -285,6 +287,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aishikdas-student/leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/aishikdas-student/leetcode/tree/master/0412-fizz-buzz) |
 | [2596-check-knight-tour-configuration](https://github.com/aishikdas-student/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Algorithm X
 |  |
