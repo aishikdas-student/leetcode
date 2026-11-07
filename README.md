@@ -57,6 +57,7 @@
 | [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aishikdas-student/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aishikdas-student/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/aishikdas-student/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aishikdas-student/leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/aishikdas-student/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aishikdas-student/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -89,6 +90,7 @@
 | [0131-palindrome-partitioning](https://github.com/aishikdas-student/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/aishikdas-student/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/aishikdas-student/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/aishikdas-student/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/aishikdas-student/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/aishikdas-student/leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/aishikdas-student/leetcode/tree/master/0443-string-compression) |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aishikdas-student/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/aishikdas-student/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -387,4 +390,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aishikdas-student/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aishikdas-student/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/aishikdas-student/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
