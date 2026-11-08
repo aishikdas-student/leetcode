@@ -41,6 +41,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/aishikdas-student/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aishikdas-student/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aishikdas-student/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1920-build-array-from-permutation](https://github.com/aishikdas-student/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/aishikdas-student/leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/aishikdas-student/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2784-check-if-array-is-good](https://github.com/aishikdas-student/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -299,6 +300,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/aishikdas-student/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/aishikdas-student/leetcode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/aishikdas-student/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2596-check-knight-tour-configuration](https://github.com/aishikdas-student/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Algorithm X
 |  |
