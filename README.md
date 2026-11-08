@@ -115,6 +115,7 @@
 | [0234-palindrome-linked-list](https://github.com/aishikdas-student/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/aishikdas-student/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aishikdas-student/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0901-online-stock-span](https://github.com/aishikdas-student/leetcode/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -274,6 +275,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aishikdas-student/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishikdas-student/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -322,6 +324,7 @@
 | [0100-same-tree](https://github.com/aishikdas-student/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aishikdas-student/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/aishikdas-student/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
