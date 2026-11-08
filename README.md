@@ -108,6 +108,7 @@
 | [0042-trapping-rain-water](https://github.com/aishikdas-student/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aishikdas-student/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/aishikdas-student/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aishikdas-student/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aishikdas-student/leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -272,6 +273,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aishikdas-student/leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishikdas-student/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -282,6 +284,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aishikdas-student/leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/aishikdas-student/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Recursion
 |  |
@@ -317,6 +320,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aishikdas-student/leetcode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aishikdas-student/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/aishikdas-student/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/aishikdas-student/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
